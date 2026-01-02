@@ -31,6 +31,10 @@ Shon receive = message ✔
 David receive: [0, 0, 0, 0, 0]
 David was found!!!
 ```
+
+  <img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/0ea42f9a-bc0b-4d4c-86b8-861fee45616b" />
+
+
 ## Technologies ☄
 
 - Python 3.8+
