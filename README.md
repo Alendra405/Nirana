@@ -1,4 +1,4 @@
-# PARGON-26 – Post-Quantum Cryptography with Physical Aperture Detection 🚀
+# PARGON-26 – Post-Quantum Cryptography with Physical Aperture Detection 🚀 Version 1.1.0 (January 8, 2026)
 
 A hybrid quantum-inspired encryption system that detects eavesdroppers through physical mask (aperture) mismatch.
 
