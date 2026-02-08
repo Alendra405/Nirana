@@ -1,4 +1,4 @@
-# Nirana – Post-Quantum Cryptography with Physical Aperture Detection 🚀 Version 1.1.0 (January 8, 2026)
+# Nirana – AMB-BB84: Post-Quantum Cryptography with Physical Aperture Detection
 
 A hybrid quantum-inspired encryption system that detects eavesdroppers through physical mask (aperture) mismatch.
 
