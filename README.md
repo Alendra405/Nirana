@@ -1,10 +1,10 @@
-# PARGON-26 – Post-Quantum Cryptography with Physical Aperture Detection 🚀 Version 1.1.0 (January 8, 2026)
+# Nirana – Post-Quantum Cryptography with Physical Aperture Detection 🚀 Version 1.1.0 (January 8, 2026)
 
 A hybrid quantum-inspired encryption system that detects eavesdroppers through physical mask (aperture) mismatch.
 
 ## Overview 🕶 (•_•)
 
-PARGON-26 combines the BB84 quantum key distribution protocol with a deterministic random aperture mask (random hole pattern) generated from the shared key as seed.
+Nirana combines the BB84 quantum key distribution protocol with a deterministic random aperture mask (random hole pattern) generated from the shared key as seed.
 
 Binary messages are transmitted via simulated photons sent from the sender's mask positions.  
 If the receiver's mask differs (eavesdropper), most photons hit the mask body instead of passing through holes, corrupting the message and automatically detecting intrusion.
@@ -36,12 +36,7 @@ Alice key :  [1 1 0 0 0 0 0 0 0 1]
 Bob key :  [1 1 0 0 0 0 0 0 0 1]
 Eave was found! Error rate: 0.11
 
-__________                                     ________  ________
-\______   \_____ _______  ____   ____   ____   \_____  \/  _____/
- |     ___/\__  \_  __ \/ ___\ /  _ \ /    \   /  ____/   __  \
- |    |     / __ \|  | \/ /_/  >  <_> )   |  \ /       \  |__\  \
- |____|    (____  /__|  \___  / \____/|___|  / \_______ \_____  /
-                \/     /_____/             \/          \/     \/
+      NIRANA ENCRYPTION - 1.1.1
       Version 1.1.0 (January 8, 2026)
       Iran(Tehran(+3:30 UTC)), Baluchistan, Chabahar freezone
       Developed by Arman Baadpa
@@ -65,8 +60,8 @@ David was found!!!
 ## How to Run 📐
 
 ```bash
-git clone https://github.com/Alendra405/pargon-26.git
-cd pargon-26
+git clone https://github.com/Alendra405/Nirana.git
+cd Nirana
 
 pip install numpy
 
@@ -75,7 +70,7 @@ python main.py
 
 ## Why It Matters ¯\\_(ツ)_/¯
 
-As quantum computers threaten classical cryptography, PARGON-26 explores a creative hybrid: information-theoretically secure BB84 + active physical-layer detection through aperture mismatch.
+As quantum computers threaten classical cryptography, Nirana explores a creative hybrid: information-theoretically secure BB84 + active physical-layer detection through aperture mismatch.
 
 The enhanced noise resistance in this version brings the simulation one step closer to real-world feasibility.
 
