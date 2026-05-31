@@ -1,4 +1,3 @@
-<img width="1280" height="800" alt="Screenshot (317)" src="https://github.com/user-attachments/assets/0354285c-2af3-4bc5-bad0-0a69533f6805" />
 # Nirana – AMB-BB84: Post-Quantum Cryptography with Physical Aperture Detection
 
 A hybrid quantum-inspired encryption system that detects eavesdroppers through physical mask (aperture) mismatch.
