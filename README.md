@@ -102,4 +102,4 @@ SOFTWARE.
 ```
 project WebSite 🌍 <a href='alendra405.github.io'>Nirana</a>
 
-<img style="border-radius:20px;" width="1280" height="800" alt="Screenshot (317)" src="https://github.com/user-attachments/assets/fef0dbcc-8ce5-4c59-b48d-bafd38d29b13" />
+<img style="border-radius:20wv;" width="1280" height="800" alt="Screenshot (317)" src="https://github.com/user-attachments/assets/fef0dbcc-8ce5-4c59-b48d-bafd38d29b13" />
